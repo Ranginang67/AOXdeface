@@ -31,3 +31,7 @@ dan ini hanya metode upload file saja
 * `python aox.py`
 
 **NOTE:** before using this tool, put your deface script with the aox.py file, edit the file 'target.txt' and enter the target url
+
+
+[YOUTUBE](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) <br>
+[TLEGRAM](https://t.me/Msambari)
