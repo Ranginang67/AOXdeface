@@ -22,13 +22,13 @@ dan ini hanya metode upload file saja
 * `python2 aox.py`
 
 **Linux:**
-* `apt-get install python`
-* `apt-get install pthon-pip`
+* `apt install python` or `apt-get install python3`
+* `apt install python-pip` or `apt-get install python3-pip`
 * `pip install requests`
-* `apt-get install git`
+* `apt install git`
 * `git clone https://github.com/Ranginang67/AOXdeface`
 * `cd AOXdeface`
-* `python aox.py`
+* `python aox.py` or `python3 aox.py`
 
 **NOTE:** before using this tool, put your deface script with the aox.py file, edit the file 'target.txt' and enter the target url
 
